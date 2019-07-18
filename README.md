@@ -1,2 +1,2 @@
 # MinehutJS
-Simple integration the Minehut API with your new or pre-existing online services.
+Simple integration with the Minehut API for your new or pre-existing online services.
